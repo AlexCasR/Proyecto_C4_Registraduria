@@ -1,0 +1,6 @@
+{
+
+    "MONGO_URI_SERVER": "mongodb+srv://Ciclo4_Resultados:Proyectociclo4@academico.h3dcwpx.mongodb.net/?retryWrites=true&w=majority",
+    "MONGO_URI_LOCAL": "mongodb://localhost",
+    "LOCAL_PORT": 27017
+}
